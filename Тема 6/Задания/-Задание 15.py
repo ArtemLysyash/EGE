@@ -1,8 +1,7 @@
 from turtle import *
 screensize(2000,2000)
 tracer(0)
-koef = 4
-0
+koef = 30
 for i in range(4):
     forward(14 * koef)
     right(90)
@@ -19,7 +18,7 @@ exitonclick()
 
 
 
-answer = 68
+answer = 61
 
 #
 
