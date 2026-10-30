@@ -1,6 +1,8 @@
 from turtle import *
+screensize(2000,2000)
 tracer(0)
-koef = 20
+koef = 4
+0
 for i in range(4):
     forward(14 * koef)
     right(90)
